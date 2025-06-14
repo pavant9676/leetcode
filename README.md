@@ -22,4 +22,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pavant9676/leetcode/tree/master/0013-roman-to-integer) |
+| [0131-palindrome-partitioning](https://github.com/pavant9676/leetcode/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/pavant9676/leetcode/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/pavant9676/leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

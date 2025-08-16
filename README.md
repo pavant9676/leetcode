@@ -4,17 +4,20 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pavant9676/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pavant9676/leetcode/tree/master/0217-contains-duplicate) |
 | [2104-operations-on-tree](https://github.com/pavant9676/leetcode/tree/master/2104-operations-on-tree) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pavant9676/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/pavant9676/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pavant9676/leetcode/tree/master/0217-contains-duplicate) |
 | [2104-operations-on-tree](https://github.com/pavant9676/leetcode/tree/master/2104-operations-on-tree) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pavant9676/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pavant9676/leetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -57,6 +60,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pavant9676/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/pavant9676/leetcode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -65,4 +69,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pavant9676/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pavant9676/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

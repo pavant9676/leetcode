@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/pavant9676/leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/pavant9676/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pavant9676/leetcode/tree/master/0217-contains-duplicate) |
 | [2104-operations-on-tree](https://github.com/pavant9676/leetcode/tree/master/2104-operations-on-tree) |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pavant9676/leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/pavant9676/leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@
 | ------- |
 | [0135-candy](https://github.com/pavant9676/leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/pavant9676/leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/pavant9676/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/pavant9676/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/pavant9676/leetcode/tree/master/0217-contains-duplicate) |
 | [2104-operations-on-tree](https://github.com/pavant9676/leetcode/tree/master/2104-operations-on-tree) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/pavant9676/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/pavant9676/leetcode/tree/master/0198-house-robber) |
 ## Backtracking
 |  |
 | ------- |
